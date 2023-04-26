@@ -1,4 +1,5 @@
 
+https://www.sqlskills.com/help/accidental-dba/
 
 https://github.com/dataplat/dbatools
 
