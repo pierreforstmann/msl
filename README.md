@@ -1,8 +1,12 @@
 
-https://www.sqlskills.com/help/accidental-dba/
+<a href=https://www.sqlskills.com/help/accidental-dba/>Accidental DBA</a>
 
-https://github.com/dataplat/dbatools
+<a href=https://github.com/dataplat/dbatools>dbatools</a>
 
-https://github.com/olahallengren/sql-server-maintenance-solution
+<a href=https://github.com/olahallengren/sql-server-maintenance-solution>SQL Server Maintenance Solution</a>
 
-https://techcommunity.microsoft.com/t5/sql-server-support-blog/top-25-sql-server-engine-errors-based-on-support-case-volumes/ba-p/3753927
+<a href=https://techcommunity.microsoft.com/t5/sql-server-support-blog/top-25-sql-server-engine-errors-based-on-support-case-volumes/ba-p/3753927>
+Top 25 most common SQL Server Engine Errors</a>
+<br>
+<br>
+<a href=https://techcommunity.microsoft.com/t5/sql-server-support-blog/what-is-causing-the-always-on-ag-issue-is-it-cluster-ad-dns-or/ba-p/3781656>What is causing the Always On AG issue? Is it cluster, AD, DNS, or SQL?</a>
