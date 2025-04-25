@@ -1,5 +1,6 @@
+<a href=https://www.youtube.com/c/BrentOzarUnlimited> Brent Ozar Unlimited - Youtube </a>
 
-<a href=https://www.red-gate.com/hub/books/>Redgate books </a>
+<a href=https://www.red-gate.com/hub/books/>Redgate books</a>
 
 <a href=https://www.sqlskills.com/help/accidental-dba/>Accidental DBA</a>
 
