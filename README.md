@@ -1,5 +1,5 @@
 
-<a href=https://www.red-gate.com/hub/books/>Reggate books </a>
+<a href=https://www.red-gate.com/hub/books/>Redgate books </a>
 
 <a href=https://www.sqlskills.com/help/accidental-dba/>Accidental DBA</a>
 
