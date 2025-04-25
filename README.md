@@ -1,5 +1,11 @@
 
+<a href=https://www.red-gate.com/hub/books/>Reggate books </a>
+
 <a href=https://www.sqlskills.com/help/accidental-dba/>Accidental DBA</a>
+
+<a href=https://kendralittle.com/coursesbytitle/>Kendra Little Free Courses</a>
+
+<a href=https://www.youtube.com/channel/UCrJ8WLrVoKxL94mKv2akxTA>Kendra Little - YouTube</a>
 
 <a href=https://github.com/dataplat/dbatools>dbatools</a>
 
